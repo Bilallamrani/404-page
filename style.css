@@ -76,7 +76,9 @@ meta:nth-of-type(3) {
     text-align: center;
     color: #343434;
 }
-
+.container h2{
+    margin-top: 105px;
+}
 .container h1 {
     font-size: 150px;
     margin: 0;
